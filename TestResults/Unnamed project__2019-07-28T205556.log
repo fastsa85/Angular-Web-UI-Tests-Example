@@ -1,0 +1,72 @@
+﻿2019-07-28T20:55:56.3307835+03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-07-28T20:55:56.3307835+03:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.352 in Framework clr40 in x86 mode execution started
+2019-07-28T20:55:56.3307835+03:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\Sergey\source\repos\CardsWebAPI\WebAPI\packages\SpecRun.Runner.3.0.352\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-07-28T20:55:56.4066146+03:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\Sergey\source\repos\CardsWebAPI\WebAPI\WebUI.Tests\bin\Debug\WebUI.Tests.dll
+2019-07-28T20:55:56.4066146+03:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\Sergey\source\repos\CardsWebAPI\WebAPI\TestResults" (default)
+2019-07-28T20:55:56.4066146+03:00;VSTestExecutionThread;Info;Profile: 
+2019-07-28T20:55:56.4584422+03:00;VSTestExecutionThread;Info;Log file path: C:\Users\Sergey\source\repos\CardsWebAPI\WebAPI\TestResults\Unnamed project__2019-07-28T205556.log
+2019-07-28T20:55:56.4624321+03:00;VSTestExecutionThread;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-07-28T20:55:56.4813818+03:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-07-28T20:55:56.4943517+03:00;Thread#14;Info;Checking license
+2019-07-28T20:55:56.4943517+03:00;Thread#14;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-07-28T20:55:56.4953436+03:00;Thread#14;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-07-28T20:55:56.5332430+03:00;Thread#14;Info;Evaluation mode: test execution starts in 7 seconds... (this delay is removed in the registered version)
+2019-07-28T20:56:03.5425281+03:00;Thread#14;Info;Evaluation delay finished.
+2019-07-28T20:56:03.5554912+03:00;Thread#14;Info;License check completed
+2019-07-28T20:56:03.5554912+03:00;Thread#14;Info;starting test run
+2019-07-28T20:56:03.5684792+03:00;Thread#14;Info;Discovering target: Default
+2019-07-28T20:56:03.5694545+03:00;Thread#14;Info;Discovering tests from assembly: C:\Users\Sergey\source\repos\CardsWebAPI\WebAPI\WebUI.Tests\bin\Debug\WebUI.Tests.dll
+2019-07-28T20:56:04.4371345+03:00:Appdomain Disposed
+2019-07-28T20:56:04.4371345+03:00;Thread#14;Info;Discovered tests from assembly: C:\Users\Sergey\source\repos\CardsWebAPI\WebAPI\WebUI.Tests\bin\Debug\WebUI.Tests.dll
+2019-07-28T20:56:04.4381329+03:00:Test Suite Dump
+2019-07-28T20:56:04.4403021+03:00:#0: Unnamed project/ - 
+2019-07-28T20:56:04.4403021+03:00:#1: Default - 
+2019-07-28T20:56:04.4403021+03:00:#2: WebUI.Tests - 
+2019-07-28T20:56:04.4403021+03:00:#3: CreatePaymentDetails - 
+2019-07-28T20:56:04.4969748+03:00:#4: Enter valid Payment details and submit - TestAssembly:WebUI.Tests/Feature:CreatePaymentDetails/Scenario:Enter+valid+Payment+details+and+submit
+2019-07-28T20:56:04.4969748+03:00:End: Test Suite Dump
+2019-07-28T20:56:04.5388629+03:00:Thread#0:Scheduler: get next test for thread 0
+2019-07-28T20:56:04.5488371+03:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2019-07-28T20:56:04.5488371+03:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-07-28T20:56:04.5568154+03:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-07-28T20:56:04.5568154+03:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-07-28T20:56:04.5568154+03:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-07-28T20:56:04.5568154+03:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-07-28T20:56:04.5588124+03:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-07-28T20:56:04.5598066+03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-07-28T20:56:04.5628197+03:00:Thread #0: creating new test thread executor for WebUI.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-07-28T20:56:04.5651399+03:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-07-28T20:56:04.5657912+03:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-07-28T20:56:04.5667880+03:00:using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-07-28T20:56:04.8924591+03:00:Thread#0: Test #4/0 is started on thread #0
+2019-07-28T20:56:05.4560068+03:00:Thread#0:T:-> Loading plugin C:\Users\Sergey\source\repos\CardsWebAPI\WebAPI\WebUI.Tests\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-07-28T20:56:05.4639783+03:00:Thread#0:T:-> Using default config
+2019-07-28T20:56:05.5945803+03:00:Thread#0:B:Given I enter "John Doe" into 'Card Owner Name' input
+2019-07-28T20:56:13.1127944+03:00:Thread#0:T:done: CreatePaymentDetailsSteps.GivenIEnterIntoInput("John Doe", "Card Owner Name") (7,3s)
+2019-07-28T20:56:13.1267563+03:00:Thread#0:Scheduler: get next test for thread 0
+2019-07-28T20:56:13.1267563+03:00:Thread#:Scheduler: at the end of normal test queue
+2019-07-28T20:56:13.1267563+03:00:Thread#0:Scheduler: enumerator for thread is at end
+2019-07-28T20:56:13.1267563+03:00:Thread#0:Scheduler: No more tests for thread
+2019-07-28T20:56:13.1487062+03:00:Thread#0: Test #4/0 is finished on thread #0 as Succeeded within 8,2552506 seconds
+2019-07-28T20:56:13.1702238+03:00:Appdomain Disposed
+2019-07-28T20:56:13.1726324+03:00:Trying to cancel thread
+2019-07-28T20:56:13.1726324+03:00:Thread cancelled
+2019-07-28T20:56:13.1826115+03:00:Thread#-1:Scheduler: get next test for thread -1
+2019-07-28T20:56:13.1826115+03:00:Thread#:Scheduler: at the end of normal test queue
+2019-07-28T20:56:13.1826115+03:00:Thread#-1:Scheduler: enumerator for thread is at end
+2019-07-28T20:56:13.1856208+03:00;Thread#14;Info;test run finished
+2019-07-28T20:56:13.1856208+03:00;Thread#14;Info;publishing test results
+2019-07-28T20:56:13.1935787+03:00;Thread#14;Info;test results published
+2019-07-28T20:56:13.1945959+03:00;Thread#14;Info;generating reports
+2019-07-28T20:56:13.4369276+03:00;Thread#14;Info;Starting external report generation process
+2019-07-28T20:56:17.4980698+03:00;Thread#14;Info;Successfully generated reports.
+2019-07-28T20:56:17.5057962+03:00;Thread#14;Info;Successfully generated reports
+2019-07-28T20:56:17.5230037+03:00:Total: 1
+2019-07-28T20:56:17.5269929+03:00:Succeeded: 1
+2019-07-28T20:56:17.5279901+03:00:Ignored: 0
+2019-07-28T20:56:17.5299848+03:00:Pending: 0
+2019-07-28T20:56:17.5299848+03:00:Skipped: 0
+2019-07-28T20:56:17.5309835+03:00:Failed: 0
+2019-07-28T20:56:17.5569113+03:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-07-28T20:56:17.5569113+03:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\Sergey\source\repos\CardsWebAPI\WebAPI\TestResults\Unnamed project__2019-07-28T205556.html'
+========== End of log file ==========

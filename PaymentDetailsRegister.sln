@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaymentDetailsRegister.Helpers", "PaymentDetailsRegister.Helpers\PaymentDetailsRegister.Helpers.csproj", "{FE7B4562-FEE5-41DE-B88E-96CD68D18AF9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaymentDetailsRegister.WebAPI", "PaymentDetailsRegister.WebAPI\PaymentDetailsRegister.WebAPI.csproj", "{09460AD0-143F-4051-A41A-AA3D7693AEBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentDetailsRegister.WebUI.Tests", "PaymentDetailsRegister.WebUI.Tests\PaymentDetailsRegister.WebUI.Tests.csproj", "{45B1DA41-C097-4510-8462-0BC44B1E9055}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "PaymentDetailsRegister.WebUI(1)", "PaymentDetailsRegister.WebUI\", "{FF3B6A76-F140-49A3-B2FF-CC081A4B7BD4}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_53604"
+		Debug.AspNetCompiler.PhysicalPath = "PaymentDetailsRegister.WebUI\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53604\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_53604"
+		Release.AspNetCompiler.PhysicalPath = "PaymentDetailsRegister.WebUI\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53604\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "53604"
+		SlnRelativePath = "PaymentDetailsRegister.WebUI\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE7B4562-FEE5-41DE-B88E-96CD68D18AF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE7B4562-FEE5-41DE-B88E-96CD68D18AF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE7B4562-FEE5-41DE-B88E-96CD68D18AF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE7B4562-FEE5-41DE-B88E-96CD68D18AF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09460AD0-143F-4051-A41A-AA3D7693AEBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09460AD0-143F-4051-A41A-AA3D7693AEBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09460AD0-143F-4051-A41A-AA3D7693AEBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09460AD0-143F-4051-A41A-AA3D7693AEBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45B1DA41-C097-4510-8462-0BC44B1E9055}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45B1DA41-C097-4510-8462-0BC44B1E9055}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45B1DA41-C097-4510-8462-0BC44B1E9055}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45B1DA41-C097-4510-8462-0BC44B1E9055}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF3B6A76-F140-49A3-B2FF-CC081A4B7BD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF3B6A76-F140-49A3-B2FF-CC081A4B7BD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF3B6A76-F140-49A3-B2FF-CC081A4B7BD4}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF3B6A76-F140-49A3-B2FF-CC081A4B7BD4}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {280EC952-CD24-473A-B637-68F9C9710F77}
+	EndGlobalSection
+EndGlobal

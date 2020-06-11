@@ -1,0 +1,18 @@
+﻿2020-06-11T16:08:13.8026672+03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2020-06-11T16:08:13.8026672+03:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.352 in Framework clr40 in x86 mode execution started
+2020-06-11T16:08:13.8026672+03:00;VSTestExecutionThread;Info;TestAdapter Location: D:\Work\PaymentDetailsRegister\packages\SpecRun.Runner.3.0.352\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2020-06-11T16:08:13.9723942+03:00;VSTestExecutionThread;Info;SpecRun: running tests in D:\Work\PaymentDetailsRegister\PaymentDetailsRegister.WebUI.Tests\bin\Debug\WebUI.Tests.dll
+2020-06-11T16:08:13.9723942+03:00;VSTestExecutionThread;Info;Output folder configured to "D:\Work\PaymentDetailsRegister\TestResults" (default)
+2020-06-11T16:08:13.9735236+03:00;VSTestExecutionThread;Info;Profile: 
+2020-06-11T16:08:14.0676383+03:00;VSTestExecutionThread;Info;Log file path: D:\Work\PaymentDetailsRegister\TestResults\Unnamed project__2020-06-11T160814.log
+2020-06-11T16:08:14.0749272+03:00;VSTestExecutionThread;Error;Invalid project license: The test assembly name must contain the licensed project name
+2020-06-11T16:08:14.0979809+03:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2020-06-11T16:08:14.1235649+03:00;Thread#14;Info;Checking license
+2020-06-11T16:08:14.1243054+03:00;Thread#14;Error;Invalid project license: The test assembly name must contain the licensed project name
+2020-06-11T16:08:14.1260893+03:00;Thread#14;Error;Invalid project license: The test assembly name must contain the licensed project name
+2020-06-11T16:08:14.2063371+03:00;Thread#14;Info;Evaluation mode: test execution starts in 7 seconds... (this delay is removed in the registered version)
+2020-06-11T16:08:21.2146343+03:00;Thread#14;Info;Evaluation delay finished.
+2020-06-11T16:08:21.2426402+03:00;Thread#14;Info;License check completed
+2020-06-11T16:08:21.2436519+03:00;Thread#14;Info;starting test run
+2020-06-11T16:08:21.3296261+03:00;Thread#14;Info;Discovering target: Default
+2020-06-11T16:08:21.3306295+03:00;Thread#14;Info;Discovering tests from assembly: D:\Work\PaymentDetailsRegister\PaymentDetailsRegister.WebUI.Tests\bin\Debug\WebUI.Tests.dll

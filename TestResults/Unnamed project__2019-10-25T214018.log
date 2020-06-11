@@ -1,0 +1,44 @@
+﻿2019-10-25T21:40:18.1324961+03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-10-25T21:40:18.1324961+03:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.352 in Framework clr40 in x86 mode execution started
+2019-10-25T21:40:18.1324961+03:00;VSTestExecutionThread;Info;TestAdapter Location: D:\Work\PaymentDetailsRegister\packages\SpecRun.Runner.3.0.352\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-10-25T21:40:18.1713918+03:00;VSTestExecutionThread;Info;SpecRun: running tests in D:\Work\PaymentDetailsRegister\PaymentDetailsRegister.WebUI.Tests\bin\Debug\WebUI.Tests.dll
+2019-10-25T21:40:18.1713918+03:00;VSTestExecutionThread;Info;Output folder configured to "D:\Work\PaymentDetailsRegister\TestResults" (default)
+2019-10-25T21:40:18.1713918+03:00;VSTestExecutionThread;Info;Profile: 
+2019-10-25T21:40:18.2052995+03:00;VSTestExecutionThread;Info;Log file path: D:\Work\PaymentDetailsRegister\TestResults\Unnamed project__2019-10-25T214018.log
+2019-10-25T21:40:18.2082919+03:00;VSTestExecutionThread;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-10-25T21:40:18.2162708+03:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-10-25T21:40:18.2252475+03:00;Thread#14;Info;Checking license
+2019-10-25T21:40:18.2252475+03:00;Thread#14;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-10-25T21:40:18.2272415+03:00;Thread#14;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-10-25T21:40:18.2551667+03:00;Thread#14;Info;Evaluation mode: test execution starts in 7 seconds... (this delay is removed in the registered version)
+2019-10-25T21:40:25.2567925+03:00;Thread#14;Info;Evaluation delay finished.
+2019-10-25T21:40:25.2636639+03:00;Thread#14;Info;License check completed
+2019-10-25T21:40:25.2636639+03:00;Thread#14;Info;starting test run
+2019-10-25T21:40:25.2866014+03:00;Thread#14;Info;Discovering target: Default
+2019-10-25T21:40:25.2866014+03:00;Thread#14;Info;Discovering tests from assembly: D:\Work\PaymentDetailsRegister\PaymentDetailsRegister.WebUI.Tests\bin\Debug\WebUI.Tests.dll
+2019-10-25T21:40:25.9073649+03:00:Appdomain Disposed
+2019-10-25T21:40:25.9073649+03:00;Thread#14;Info;Discovered tests from assembly: D:\Work\PaymentDetailsRegister\PaymentDetailsRegister.WebUI.Tests\bin\Debug\WebUI.Tests.dll
+2019-10-25T21:40:25.9083624+03:00:Test Suite Dump
+2019-10-25T21:40:25.9103566+03:00:#0: Unnamed project/ - 
+2019-10-25T21:40:25.9103566+03:00:#1: Default - 
+2019-10-25T21:40:25.9103566+03:00:#2: WebUI.Tests - 
+2019-10-25T21:40:25.9103566+03:00:#3: CreatePaymentDetails - 
+2019-10-25T21:40:25.9642120+03:00:#4: Enter valid Payment details and submit - TestAssembly:WebUI.Tests/Feature:CreatePaymentDetails/Scenario:Enter+valid+Payment+details+and+submit
+2019-10-25T21:40:25.9642120+03:00:End: Test Suite Dump
+2019-10-25T21:40:25.9911416+03:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-25T21:40:25.9931358+03:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2019-10-25T21:40:25.9931358+03:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-10-25T21:40:25.9971253+03:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-10-25T21:40:25.9971253+03:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-10-25T21:40:25.9971253+03:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-10-25T21:40:25.9971253+03:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-10-25T21:40:25.9981237+03:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-10-25T21:40:25.9991212+03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-10-25T21:40:26.0011147+03:00:Thread #0: creating new test thread executor for WebUI.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-10-25T21:40:26.0031092+03:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-10-25T21:40:26.0031092+03:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-10-25T21:40:26.0031092+03:00:using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-10-25T21:40:26.1566999+03:00:Thread#0: Test #4/0 is started on thread #0
+2019-10-25T21:40:26.4958431+03:00:Thread#0:T:-> Loading plugin D:\Work\PaymentDetailsRegister\PaymentDetailsRegister.WebUI.Tests\bin\Debug\SpecFlow.Autofac.SpecFlowPlugin.dll
+2019-10-25T21:40:26.5078107+03:00:Thread#0:T:-> Loading plugin D:\Work\PaymentDetailsRegister\PaymentDetailsRegister.WebUI.Tests\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-10-25T21:40:26.5397259+03:00:Thread#0:T:-> Using app.config

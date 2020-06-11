@@ -1,0 +1,64 @@
+﻿2019-10-14T21:04:39.7433228+03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-10-14T21:04:39.7433228+03:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.352 in Framework clr40 in x86 mode execution started
+2019-10-14T21:04:39.7433228+03:00;VSTestExecutionThread;Info;TestAdapter Location: D:\Work\PaymentDetailsRegister\packages\SpecRun.Runner.3.0.352\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-10-14T21:04:39.8762839+03:00;VSTestExecutionThread;Info;SpecRun: running tests in D:\Work\PaymentDetailsRegister\PaymentDetailsRegister.WebUI.Tests\bin\Debug\WebUI.Tests.dll
+2019-10-14T21:04:39.8772819+03:00;VSTestExecutionThread;Info;Output folder configured to "D:\Work\PaymentDetailsRegister\TestResults" (default)
+2019-10-14T21:04:39.8772819+03:00;VSTestExecutionThread;Info;Profile: 
+2019-10-14T21:04:40.0086793+03:00;VSTestExecutionThread;Info;Log file path: D:\Work\PaymentDetailsRegister\TestResults\Unnamed project__2019-10-14T210439.log
+2019-10-14T21:04:40.0215782+03:00;VSTestExecutionThread;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-10-14T21:04:40.0569414+03:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-10-14T21:04:40.0818801+03:00;Thread#13;Info;Checking license
+2019-10-14T21:04:40.0828763+03:00;Thread#13;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-10-14T21:04:40.0848708+03:00;Thread#13;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-10-14T21:04:40.1815753+03:00;Thread#13;Info;Evaluation mode: test execution starts in 8 seconds... (this delay is removed in the registered version)
+2019-10-14T21:04:48.1880676+03:00;Thread#13;Info;Evaluation delay finished.
+2019-10-14T21:04:48.2152471+03:00;Thread#13;Info;License check completed
+2019-10-14T21:04:48.2154411+03:00;Thread#13;Info;starting test run
+2019-10-14T21:04:48.2892717+03:00;Thread#13;Info;Discovering target: Default
+2019-10-14T21:04:48.2901248+03:00;Thread#13;Info;Discovering tests from assembly: D:\Work\PaymentDetailsRegister\PaymentDetailsRegister.WebUI.Tests\bin\Debug\WebUI.Tests.dll
+2019-10-14T21:04:50.5734765+03:00:Appdomain Disposed
+2019-10-14T21:04:50.5734765+03:00;Thread#13;Info;Discovered tests from assembly: D:\Work\PaymentDetailsRegister\PaymentDetailsRegister.WebUI.Tests\bin\Debug\WebUI.Tests.dll
+2019-10-14T21:04:50.5757228+03:00:Test Suite Dump
+2019-10-14T21:04:50.5779931+03:00:#0: Unnamed project/ - 
+2019-10-14T21:04:50.5779931+03:00:#1: Default - 
+2019-10-14T21:04:50.5779931+03:00:#2: WebUI.Tests - 
+2019-10-14T21:04:50.5779931+03:00:#3: CreatePaymentDetails - 
+2019-10-14T21:04:50.6680678+03:00:#4: Enter valid Payment details and submit - TestAssembly:WebUI.Tests/Feature:CreatePaymentDetails/Scenario:Enter+valid+Payment+details+and+submit
+2019-10-14T21:04:50.6680678+03:00:End: Test Suite Dump
+2019-10-14T21:04:50.7421005+03:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-14T21:04:50.7505475+03:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2019-10-14T21:04:50.7505475+03:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-10-14T21:04:50.7672009+03:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-10-14T21:04:50.7672009+03:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-10-14T21:04:50.7672009+03:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-10-14T21:04:50.7672009+03:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-10-14T21:04:50.7681998+03:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-10-14T21:04:50.7681998+03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-10-14T21:04:50.7815882+03:00:Thread #0: creating new test thread executor for WebUI.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-10-14T21:04:50.7825862+03:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-10-14T21:04:50.7851061+03:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-10-14T21:04:50.7851061+03:00:using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-10-14T21:04:51.1722079+03:00:Thread#0: Test #4/0 is started on thread #0
+2019-10-14T21:04:52.2624666+03:00:Thread#0:T:-> Loading plugin D:\Work\PaymentDetailsRegister\PaymentDetailsRegister.WebUI.Tests\bin\Debug\SpecFlow.Autofac.SpecFlowPlugin.dll
+2019-10-14T21:04:52.3021952+03:00:Thread#0:T:-> Loading plugin D:\Work\PaymentDetailsRegister\PaymentDetailsRegister.WebUI.Tests\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-10-14T21:04:52.4381030+03:00:Thread#0:T:-> Using app.config
+2019-10-14T21:08:42.0148359+03:00:Thread#0:B:When user enters in Create Payment form:
+2019-10-14T21:08:42.0148359+03:00:Thread#0:B:  --- table step argument ---
+2019-10-14T21:08:42.0156655+03:00:Thread#0:B:  | CardOwnerName | CardNumber       | ExpirationDate | CVV |
+2019-10-14T21:08:42.0156655+03:00:Thread#0:B:  | John Doe      | 1234123412341234 | 11/44          | 123 |
+2019-10-14T21:08:43.7658706+03:00:Thread#0:T:done: CreatePaymentDetailsSteps.WhenUserEntersInCreatePaymentForm(<table>) (1,7s)
+2019-10-14T21:08:45.8114632+03:00:Thread#0:B:Then button Submit is enabled in Create Payment form
+2019-10-14T21:09:32.5903341+03:00:Thread#0:T:done: CreatePaymentDetailsSteps.ThenButtonSubmitIsEnabledInCreatePaymentForm() (46,8s)
+2019-10-14T21:09:34.1678013+03:00:Thread#0:B:When user clicks button Submit in Create Payment form
+2019-10-14T21:09:34.2887041+03:00:Thread#0:T:done: CreatePaymentDetailsSteps.WhenUserClicksButtonSubmitInCreatePaymentForm() (0,1s)
+2019-10-14T21:09:35.6971660+03:00:Thread#0:B:Then the following Payment Detail is asked to be created:
+2019-10-14T21:09:35.6971660+03:00:Thread#0:B:  --- table step argument ---
+2019-10-14T21:09:35.6977883+03:00:Thread#0:B:  | CardOwnerName | CardNumber          | ExpirationDate | CVV |
+2019-10-14T21:09:35.6977883+03:00:Thread#0:B:  | John Doe      | 1234 1234 1234 1234 | 11/44          | 123 |
+2019-10-14T21:12:15.4420942+03:00:Thread#0:T:pending: CreatePaymentDetailsSteps.ThenTheFollowingPaymentDetailIsAskedToBeCreated(<table>)
+2019-10-14T21:12:19.1125691+03:00:Thread#0:T:Pending: One or more step definitions are not implemented yet.
+2019-10-14T21:12:19.1135677+03:00:Thread#0:T:  CreatePaymentDetailsSteps.ThenTheFollowingPaymentDetailIsAskedToBeCreated(<table>)
+2019-10-14T21:12:19.1271413+03:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-14T21:12:19.1271413+03:00:Thread#:Scheduler: at the end of normal test queue
+2019-10-14T21:12:19.1271413+03:00:Thread#0:Scheduler: enumerator for thread is at end
+2019-10-14T21:12:19.1271413+03:00:Thread#0:Scheduler: No more tests for thread

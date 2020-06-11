@@ -1,0 +1,69 @@
+﻿2019-10-13T20:19:44.9985308+03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-10-13T20:19:44.9985308+03:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.352 in Framework clr40 in x86 mode execution started
+2019-10-13T20:19:44.9985308+03:00;VSTestExecutionThread;Info;TestAdapter Location: D:\Work\PaymentDetailsRegister\packages\SpecRun.Runner.3.0.352\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-10-13T20:19:45.0224715+03:00;VSTestExecutionThread;Info;SpecRun: running tests in D:\Work\PaymentDetailsRegister\PaymentDetailsRegister.WebUI.Tests\bin\Debug\WebUI.Tests.dll
+2019-10-13T20:19:45.0234676+03:00;VSTestExecutionThread;Info;Output folder configured to "D:\Work\PaymentDetailsRegister\TestResults" (default)
+2019-10-13T20:19:45.0234676+03:00;VSTestExecutionThread;Info;Profile: 
+2019-10-13T20:19:45.0474009+03:00;VSTestExecutionThread;Info;Log file path: D:\Work\PaymentDetailsRegister\TestResults\Unnamed project__2019-10-13T201945.log
+2019-10-13T20:19:45.0493962+03:00;VSTestExecutionThread;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-10-13T20:19:45.0563777+03:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-10-13T20:19:45.0663497+03:00;Thread#13;Info;Checking license
+2019-10-13T20:19:45.0673465+03:00;Thread#13;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-10-13T20:19:45.0683455+03:00;Thread#13;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-10-13T20:19:45.0982668+03:00;Thread#13;Info;Evaluation mode: test execution starts in 14 seconds... (this delay is removed in the registered version)
+2019-10-13T20:19:59.1008017+03:00;Thread#13;Info;Evaluation delay finished.
+2019-10-13T20:19:59.1097769+03:00;Thread#13;Info;License check completed
+2019-10-13T20:19:59.1097769+03:00;Thread#13;Info;starting test run
+2019-10-13T20:19:59.1781099+03:00;Thread#13;Info;Discovering target: Default
+2019-10-13T20:19:59.1791077+03:00;Thread#13;Info;Discovering tests from assembly: D:\Work\PaymentDetailsRegister\PaymentDetailsRegister.WebUI.Tests\bin\Debug\WebUI.Tests.dll
+2019-10-13T20:19:59.7783760+03:00:Appdomain Disposed
+2019-10-13T20:19:59.7783760+03:00;Thread#13;Info;Discovered tests from assembly: D:\Work\PaymentDetailsRegister\PaymentDetailsRegister.WebUI.Tests\bin\Debug\WebUI.Tests.dll
+2019-10-13T20:19:59.7793836+03:00:Test Suite Dump
+2019-10-13T20:19:59.7813687+03:00:#0: Unnamed project/ - 
+2019-10-13T20:19:59.7813687+03:00:#1: Default - 
+2019-10-13T20:19:59.7813687+03:00:#2: WebUI.Tests - 
+2019-10-13T20:19:59.7813687+03:00:#3: CreatePaymentDetails - 
+2019-10-13T20:19:59.8262471+03:00:#4: Enter valid Payment details and submit - TestAssembly:WebUI.Tests/Feature:CreatePaymentDetails/Scenario:Enter+valid+Payment+details+and+submit
+2019-10-13T20:19:59.8262471+03:00:End: Test Suite Dump
+2019-10-13T20:19:59.8578162+03:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-13T20:19:59.8598082+03:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2019-10-13T20:19:59.8598082+03:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-10-13T20:19:59.8667901+03:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-10-13T20:19:59.8667901+03:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-10-13T20:19:59.8667901+03:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-10-13T20:19:59.8667901+03:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-10-13T20:19:59.8677886+03:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-10-13T20:19:59.8687842+03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-10-13T20:19:59.8717762+03:00:Thread #0: creating new test thread executor for WebUI.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-10-13T20:19:59.8727733+03:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-10-13T20:19:59.8737711+03:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-10-13T20:19:59.8737711+03:00:using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-10-13T20:20:00.0443325+03:00:Thread#0: Test #4/0 is started on thread #0
+2019-10-13T20:20:00.4597526+03:00:Thread#0:T:-> Loading plugin D:\Work\PaymentDetailsRegister\PaymentDetailsRegister.WebUI.Tests\bin\Debug\SpecFlow.Autofac.SpecFlowPlugin.dll
+2019-10-13T20:20:00.4717208+03:00:Thread#0:T:-> Loading plugin D:\Work\PaymentDetailsRegister\PaymentDetailsRegister.WebUI.Tests\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-10-13T20:20:00.4933316+03:00:Thread#0:T:-> Using app.config
+2019-10-13T20:22:28.1148521+03:00:Thread#0:TestItem#4:Scheduler: reschedule tests for testitem #4
+2019-10-13T20:22:28.1148521+03:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-13T20:22:28.1148521+03:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2019-10-13T20:22:28.1148521+03:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-10-13T20:22:28.1148521+03:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-10-13T20:22:28.1148521+03:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-10-13T20:22:28.1148521+03:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-10-13T20:22:28.1148521+03:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-10-13T20:22:28.1148521+03:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-10-13T20:22:28.1148521+03:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2019-10-13T20:22:30.7344469+03:00:Thread#0: Test #4/0 is finished on thread #0 as Failed within 150,6891168 seconds
+2019-10-13T20:22:30.7364759+03:00:Thread#0: Test #4/1 is started on thread #0
+2019-10-13T20:22:30.7384383+03:00:Thread#0:T:warning: The previous ScenarioContext was not disposed.
+2019-10-13T20:22:47.1954640+03:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-13T20:22:47.1954640+03:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2019-10-13T20:22:47.1954640+03:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-10-13T20:22:47.1954640+03:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-10-13T20:22:47.1954640+03:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-10-13T20:22:47.1954640+03:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-10-13T20:22:47.1954640+03:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-10-13T20:22:47.1954640+03:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-10-13T20:22:47.1954640+03:00:Thread#0:Scheduler: with testItemExecutionIndex 2
+2019-10-13T20:22:48.4603988+03:00:Thread#0: Test #4/1 is finished on thread #0 as Failed within 17,7239229 seconds
+2019-10-13T20:22:48.4603988+03:00:Thread#0: Test #4/2 is started on thread #0
+2019-10-13T20:22:48.4603988+03:00:Thread#0:T:warning: The previous ScenarioContext was not disposed.

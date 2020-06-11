@@ -1,0 +1,13 @@
+﻿2019-07-27T15:21:57.5457337+03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-07-27T15:21:57.5457337+03:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.352 in Framework clr40 in x86 mode execution started
+2019-07-27T15:21:57.5457337+03:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\Sergey\source\repos\CardsWebAPI\WebAPI\packages\SpecRun.Runner.3.0.352\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-07-27T15:21:57.5836331+03:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\Sergey\source\repos\CardsWebAPI\WebAPI\WebUI.Tests\bin\Debug\WebUI.Tests.dll
+2019-07-27T15:21:57.5846302+03:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\Sergey\source\repos\CardsWebAPI\WebAPI\TestResults" (default)
+2019-07-27T15:21:57.5846302+03:00;VSTestExecutionThread;Info;Profile: 
+2019-07-27T15:21:57.6903473+03:00;VSTestExecutionThread;Info;Log file path: C:\Users\Sergey\source\repos\CardsWebAPI\WebAPI\TestResults\Unnamed project__2019-07-27T152157.log
+2019-07-27T15:21:57.6953348+03:00;VSTestExecutionThread;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-07-27T15:21:57.7152805+03:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-07-27T15:21:57.7541763+03:00;Thread#13;Info;Checking license
+2019-07-27T15:21:57.7551746+03:00;Thread#13;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-07-27T15:21:57.7561718+03:00;Thread#13;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-07-27T15:21:57.8170081+03:00;Thread#13;Info;Evaluation mode: test execution starts in 9 seconds... (this delay is removed in the registered version)

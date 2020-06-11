@@ -1,0 +1,47 @@
+﻿2019-07-24T22:00:09.0223009+03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-07-24T22:00:09.0223009+03:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.352 in Framework clr40 in x86 mode execution started
+2019-07-24T22:00:09.0223009+03:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\Sergey\source\repos\CardsWebAPI\WebAPI\WebUI.Tests\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-07-24T22:00:09.0621330+03:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\Sergey\source\repos\CardsWebAPI\WebAPI\WebUI.Tests\bin\Debug\WebUI.Tests.dll
+2019-07-24T22:00:09.0632639+03:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\Sergey\source\repos\CardsWebAPI\WebAPI\TestResults" (default)
+2019-07-24T22:00:09.0632639+03:00;VSTestExecutionThread;Info;Profile: 
+2019-07-24T22:00:09.0990370+03:00;VSTestExecutionThread;Info;Log file path: C:\Users\Sergey\source\repos\CardsWebAPI\WebAPI\TestResults\Unnamed project__2019-07-24T220009.log
+2019-07-24T22:00:09.1010314+03:00;VSTestExecutionThread;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-07-24T22:00:09.1119997+03:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-07-24T22:00:09.1179829+03:00;Thread#13;Info;Checking license
+2019-07-24T22:00:09.1189800+03:00;Thread#13;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-07-24T22:00:09.1199780+03:00;Thread#13;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-07-24T22:00:09.1449123+03:00;Thread#13;Info;Evaluation mode: test execution starts in 7 seconds... (this delay is removed in the registered version)
+2019-07-24T22:00:16.1461005+03:00;Thread#13;Info;Evaluation delay finished.
+2019-07-24T22:00:16.1677793+03:00;Thread#13;Info;License check completed
+2019-07-24T22:00:16.1697378+03:00;Thread#13;Info;starting test run
+2019-07-24T22:00:16.2026523+03:00;Thread#13;Info;Discovering target: Default
+2019-07-24T22:00:16.2056412+03:00;Thread#13;Info;Discovering tests from assembly: C:\Users\Sergey\source\repos\CardsWebAPI\WebAPI\WebUI.Tests\bin\Debug\WebUI.Tests.dll
+2019-07-24T22:00:16.6945235+03:00:Appdomain Disposed
+2019-07-24T22:00:16.6945235+03:00;Thread#13;Info;Discovered tests from assembly: C:\Users\Sergey\source\repos\CardsWebAPI\WebAPI\WebUI.Tests\bin\Debug\WebUI.Tests.dll
+2019-07-24T22:00:16.6956238+03:00:Test Suite Dump
+2019-07-24T22:00:16.6980388+03:00:#0: Unnamed project/ - 
+2019-07-24T22:00:16.6980388+03:00:End: Test Suite Dump
+2019-07-24T22:00:16.7250317+03:00:Thread#0:Scheduler: get next test for thread 0
+2019-07-24T22:00:16.7269876+03:00:Thread#:Scheduler: at the end of normal test queue
+2019-07-24T22:00:16.7269876+03:00:Thread#0:Scheduler: enumerator for thread is at end
+2019-07-24T22:00:16.7269876+03:00:Thread#0:Scheduler: No more tests for thread
+2019-07-24T22:00:16.7299976+03:00:Trying to cancel thread
+2019-07-24T22:00:16.7299976+03:00:Thread cancelled
+2019-07-24T22:00:16.7389297+03:00:Thread#-1:Scheduler: get next test for thread -1
+2019-07-24T22:00:16.7389297+03:00:Thread#:Scheduler: at the end of normal test queue
+2019-07-24T22:00:16.7389297+03:00:Thread#-1:Scheduler: enumerator for thread is at end
+2019-07-24T22:00:16.7401700+03:00;Thread#13;Info;test run finished
+2019-07-24T22:00:16.7409214+03:00;Thread#13;Info;publishing test results
+2019-07-24T22:00:17.8918812+03:00;Thread#13;Info;test results published
+2019-07-24T22:00:17.8918812+03:00;Thread#13;Info;generating reports
+2019-07-24T22:00:17.9655434+03:00;Thread#13;Info;Starting external report generation process
+2019-07-24T22:00:20.0084686+03:00;Thread#13;Error;Could not generate test run result reports. An error occurred in the generator.
+2019-07-24T22:00:20.0084686+03:00;Thread#13;Error;Error output of external program:
+2019-07-24T22:00:20.0317993+03:00:Total: 0
+2019-07-24T22:00:20.0337945+03:00:Succeeded: 0
+2019-07-24T22:00:20.0349502+03:00:Ignored: 0
+2019-07-24T22:00:20.0349502+03:00:Pending: 0
+2019-07-24T22:00:20.0357888+03:00:Skipped: 0
+2019-07-24T22:00:20.0357888+03:00:Failed: 0
+2019-07-24T22:00:20.0458808+03:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+========== End of log file ==========

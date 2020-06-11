@@ -1,0 +1,53 @@
+﻿2019-08-08T21:11:14.7299987+03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-08-08T21:11:14.7299987+03:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.352 in Framework clr40 in x86 mode execution started
+2019-08-08T21:11:14.7299987+03:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\Sergey\source\repos\CardsWebAPI\PaymentDetailsRegister\PaymentDetailsRegister.WebUI.Tests\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-08-08T21:11:14.7853588+03:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\Sergey\source\repos\CardsWebAPI\PaymentDetailsRegister\PaymentDetailsRegister.WebUI.Tests\bin\Debug\WebUI.Tests.dll
+2019-08-08T21:11:14.7863553+03:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\Sergey\source\repos\CardsWebAPI\PaymentDetailsRegister\TestResults" (default)
+2019-08-08T21:11:14.7863553+03:00;VSTestExecutionThread;Info;Profile: 
+2019-08-08T21:11:14.9162620+03:00;VSTestExecutionThread;Info;Log file path: C:\Users\Sergey\source\repos\CardsWebAPI\PaymentDetailsRegister\TestResults\Unnamed project__2019-08-08T211114.log
+2019-08-08T21:11:14.9328378+03:00;VSTestExecutionThread;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-08-08T21:11:14.9539691+03:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-08-08T21:11:15.0747685+03:00;Thread#14;Info;Checking license
+2019-08-08T21:11:15.0760780+03:00;Thread#14;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-08-08T21:11:15.0787211+03:00;Thread#14;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-08-08T21:11:15.1562815+03:00;Thread#14;Info;Evaluation mode: test execution starts in 13 seconds... (this delay is removed in the registered version)
+2019-08-08T21:11:28.1578428+03:00;Thread#14;Info;Evaluation delay finished.
+2019-08-08T21:11:28.1703037+03:00;Thread#14;Info;License check completed
+2019-08-08T21:11:28.1712220+03:00;Thread#14;Info;starting test run
+2019-08-08T21:11:28.2068630+03:00;Thread#14;Info;Discovering target: Default
+2019-08-08T21:11:28.2068630+03:00;Thread#14;Info;Discovering tests from assembly: C:\Users\Sergey\source\repos\CardsWebAPI\PaymentDetailsRegister\PaymentDetailsRegister.WebUI.Tests\bin\Debug\WebUI.Tests.dll
+2019-08-08T21:11:29.0005089+03:00:Appdomain Disposed
+2019-08-08T21:11:29.0005089+03:00;Thread#14;Info;Discovered tests from assembly: C:\Users\Sergey\source\repos\CardsWebAPI\PaymentDetailsRegister\PaymentDetailsRegister.WebUI.Tests\bin\Debug\WebUI.Tests.dll
+2019-08-08T21:11:29.0020476+03:00:Test Suite Dump
+2019-08-08T21:11:29.0041186+03:00:#0: Unnamed project/ - 
+2019-08-08T21:11:29.0041186+03:00:#1: Default - 
+2019-08-08T21:11:29.0041186+03:00:#2: WebUI.Tests - 
+2019-08-08T21:11:29.0041186+03:00:#3: CreatePaymentDetails - 
+2019-08-08T21:11:29.0672924+03:00:#4: Enter valid Payment details and submit - TestAssembly:WebUI.Tests/Feature:CreatePaymentDetails/Scenario:Enter+valid+Payment+details+and+submit
+2019-08-08T21:11:29.0680457+03:00:End: Test Suite Dump
+2019-08-08T21:11:29.1019174+03:00:Thread#0:Scheduler: get next test for thread 0
+2019-08-08T21:11:29.1039129+03:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2019-08-08T21:11:29.1039129+03:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-08-08T21:11:29.1090559+03:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-08-08T21:11:29.1090559+03:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-08-08T21:11:29.1090559+03:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-08-08T21:11:29.1090559+03:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-08-08T21:11:29.1120864+03:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-08-08T21:11:29.1130775+03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-08-08T21:11:29.1150715+03:00:Thread #0: creating new test thread executor for WebUI.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-08-08T21:11:29.1170652+03:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-08-08T21:11:29.1181790+03:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-08-08T21:11:29.1181790+03:00:using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-08-08T21:11:29.9558472+03:00:Thread#0: Test #4/0 is started on thread #0
+2019-08-08T21:11:30.5100117+03:00:Thread#0:T:-> Loading plugin C:\Users\Sergey\source\repos\CardsWebAPI\PaymentDetailsRegister\PaymentDetailsRegister.WebUI.Tests\bin\Debug\SpecFlow.Autofac.SpecFlowPlugin.dll
+2019-08-08T21:11:30.5718987+03:00:Thread#0:T:-> Loading plugin C:\Users\Sergey\source\repos\CardsWebAPI\PaymentDetailsRegister\PaymentDetailsRegister.WebUI.Tests\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-08-08T21:11:30.7189420+03:00:Thread#0:T:-> Using app.config
+2019-08-08T21:12:13.2470787+03:00:Thread#0:B:When user enters in Create Payment form:
+2019-08-08T21:12:13.2470787+03:00:Thread#0:B:  --- table step argument ---
+2019-08-08T21:12:13.2470787+03:00:Thread#0:B:  | Card Owner Name | Card Number      | Date  | CVV |
+2019-08-08T21:12:13.2470787+03:00:Thread#0:B:  | John Smith Jr.  | 1234567887654321 | 03/05 | 765 |
+2019-08-08T21:12:13.3166299+03:00:Thread#0:T:binding error: Ambiguous step definitions found for step 'When user enters in Create Payment form:': WebUI.Tests:WebUI.Tests.CreatePaymentDetailsSteps.WhenUserEntersInCreatePaymentForm(Table), WebUI.Tests:WebUI.Tests.Steps.CreatePaymentDetailsSteps.WhenUserEntersInCreatePaymentForm(Table)
+2019-08-08T21:12:16.9950083+03:00:Thread#0:B:Then button Submit is enabled in Create Payment form
+2019-08-08T21:12:16.9960063+03:00:Thread#0:T:binding error: Ambiguous step definitions found for step 'Then button Submit is enabled in Create Payment form': WebUI.Tests:WebUI.Tests.CreatePaymentDetailsSteps.ThenButtonSubmitIsEnabledInCreatePaymentForm(), WebUI.Tests:WebUI.Tests.Steps.CreatePaymentDetailsSteps.ThenButtonSubmitIsEnabledInCreatePaymentForm()
+2019-08-08T21:12:18.2811550+03:00:Thread#0:B:When user clicks button Submit in Create Payment form
+2019-08-08T21:12:18.2820631+03:00:Thread#0:T:binding error: Ambiguous step definitions found for step 'When user clicks button Submit in Create Payment form': WebUI.Tests:WebUI.Tests.CreatePaymentDetailsSteps.WhenUserClicksButtonSubmitInCreatePaymentForm(), WebUI.Tests:WebUI.Tests.Steps.CreatePaymentDetailsSteps.WhenUserClicksButtonSubmitInCreatePaymentForm()

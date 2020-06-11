@@ -1,0 +1,142 @@
+﻿2019-10-21T22:34:53.9172419+03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-10-21T22:34:53.9172419+03:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.352 in Framework clr40 in x86 mode execution started
+2019-10-21T22:34:53.9172419+03:00;VSTestExecutionThread;Info;TestAdapter Location: D:\Work\PaymentDetailsRegister\packages\SpecRun.Runner.3.0.352\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-10-21T22:34:53.9591313+03:00;VSTestExecutionThread;Info;SpecRun: running tests in D:\Work\PaymentDetailsRegister\PaymentDetailsRegister.WebUI.Tests\bin\Debug\WebUI.Tests.dll
+2019-10-21T22:34:53.9601294+03:00;VSTestExecutionThread;Info;Output folder configured to "D:\Work\PaymentDetailsRegister\TestResults" (default)
+2019-10-21T22:34:53.9601294+03:00;VSTestExecutionThread;Info;Profile: 
+2019-10-21T22:34:53.9920439+03:00;VSTestExecutionThread;Info;Log file path: D:\Work\PaymentDetailsRegister\TestResults\Unnamed project__2019-10-21T223453.log
+2019-10-21T22:34:53.9930405+03:00;VSTestExecutionThread;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-10-21T22:34:54.0030145+03:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-10-21T22:34:54.0149812+03:00;Thread#13;Info;Checking license
+2019-10-21T22:34:54.0169763+03:00;Thread#13;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-10-21T22:34:54.0219643+03:00;Thread#13;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-10-21T22:34:54.0488911+03:00;Thread#13;Info;Evaluation mode: test execution starts in 8 seconds... (this delay is removed in the registered version)
+2019-10-21T22:35:02.0493094+03:00;Thread#13;Info;Evaluation delay finished.
+2019-10-21T22:35:02.0711574+03:00;Thread#13;Info;License check completed
+2019-10-21T22:35:02.0721063+03:00;Thread#13;Info;starting test run
+2019-10-21T22:35:02.1081051+03:00;Thread#13;Info;Discovering target: Default
+2019-10-21T22:35:02.1081051+03:00;Thread#13;Info;Discovering tests from assembly: D:\Work\PaymentDetailsRegister\PaymentDetailsRegister.WebUI.Tests\bin\Debug\WebUI.Tests.dll
+2019-10-21T22:35:02.9259203+03:00:Appdomain Disposed
+2019-10-21T22:35:02.9259203+03:00;Thread#13;Info;Discovered tests from assembly: D:\Work\PaymentDetailsRegister\PaymentDetailsRegister.WebUI.Tests\bin\Debug\WebUI.Tests.dll
+2019-10-21T22:35:02.9279341+03:00:Test Suite Dump
+2019-10-21T22:35:02.9319057+03:00:#0: Unnamed project/ - 
+2019-10-21T22:35:02.9319057+03:00:#1: Default - 
+2019-10-21T22:35:02.9319057+03:00:#2: WebUI.Tests - 
+2019-10-21T22:35:02.9319057+03:00:#3: CreatePaymentDetails - 
+2019-10-21T22:35:03.0206366+03:00:#4: Enter valid Payment details and submit - TestAssembly:WebUI.Tests/Feature:CreatePaymentDetails/Scenario:Enter+valid+Payment+details+and+submit
+2019-10-21T22:35:03.0206366+03:00:End: Test Suite Dump
+2019-10-21T22:35:03.0695089+03:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-21T22:35:03.0754914+03:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2019-10-21T22:35:03.0754914+03:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-10-21T22:35:03.0844649+03:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-10-21T22:35:03.0844649+03:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-10-21T22:35:03.0844649+03:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-10-21T22:35:03.0844649+03:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-10-21T22:35:03.0874569+03:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-10-21T22:35:03.0904503+03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-10-21T22:35:03.0954391+03:00:Thread #0: creating new test thread executor for WebUI.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-10-21T22:35:03.0984312+03:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-10-21T22:35:03.0994289+03:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-10-21T22:35:03.1004261+03:00:using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-10-21T22:35:03.2609950+03:00:Thread#0: Test #4/0 is started on thread #0
+2019-10-21T22:35:03.8763464+03:00:Thread#0:T:-> Loading plugin D:\Work\PaymentDetailsRegister\PaymentDetailsRegister.WebUI.Tests\bin\Debug\SpecFlow.Autofac.SpecFlowPlugin.dll
+2019-10-21T22:35:03.8855814+03:00:Thread#0:T:-> Loading plugin D:\Work\PaymentDetailsRegister\PaymentDetailsRegister.WebUI.Tests\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-10-21T22:35:03.9054960+03:00:Thread#0:T:-> Using app.config
+2019-10-21T22:35:10.9871442+03:00:Thread#0:B:When user enters in Create Payment form:
+2019-10-21T22:35:10.9871442+03:00:Thread#0:B:  --- table step argument ---
+2019-10-21T22:35:10.9871442+03:00:Thread#0:B:  | CardOwnerName | CardNumber       | ExpirationDate | CVV |
+2019-10-21T22:35:10.9881424+03:00:Thread#0:B:  | John Doe      | 1234123412341234 | 11/44          | 123 |
+2019-10-21T22:35:12.7813466+03:00:Thread#0:T:done: CreatePaymentDetailsSteps.WhenUserEntersInCreatePaymentForm(<table>) (1,7s)
+2019-10-21T22:35:12.7823433+03:00:Thread#0:B:Then button Submit is enabled in Create Payment form
+2019-10-21T22:35:13.8895447+03:00:Thread#0:T:done: CreatePaymentDetailsSteps.ThenButtonSubmitIsEnabledInCreatePaymentForm() (1,1s)
+2019-10-21T22:35:13.8895447+03:00:Thread#0:B:When user clicks button Submit in Create Payment form
+2019-10-21T22:35:13.9612667+03:00:Thread#0:T:done: CreatePaymentDetailsSteps.WhenUserClicksButtonSubmitInCreatePaymentForm() (0,1s)
+2019-10-21T22:35:13.9621883+03:00:Thread#0:B:Then Payment Details service is called with POST request
+2019-10-21T22:35:14.0270163+03:00:Thread#0:T:error: Последовательность не содержит элементов
+2019-10-21T22:35:14.0280130+03:00:Thread#0:B:Then the following Payment Detail is asked to be created:
+2019-10-21T22:35:14.0280130+03:00:Thread#0:B:  --- table step argument ---
+2019-10-21T22:35:14.0280130+03:00:Thread#0:B:  | CardOwnerName | CardNumber       | ExpirationDate | CVV |
+2019-10-21T22:35:14.0280130+03:00:Thread#0:B:  | John Doe      | 1234123412341234 | 11/44          | 123 |
+2019-10-21T22:35:14.0290200+03:00:Thread#0:T:skipped because of previous errors
+2019-10-21T22:35:14.1048079+03:00:Thread#0:TestItem#4:Scheduler: reschedule tests for testitem #4
+2019-10-21T22:35:14.1058079+03:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-21T22:35:14.1058079+03:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2019-10-21T22:35:14.1068025+03:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-10-21T22:35:14.1068025+03:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-10-21T22:35:14.1068025+03:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-10-21T22:35:14.1068025+03:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-10-21T22:35:14.1068025+03:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-10-21T22:35:14.1068025+03:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-10-21T22:35:14.1068025+03:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2019-10-21T22:35:14.3291412+03:00:Thread#0: Test #4/0 is finished on thread #0 as Failed within 11,067149 seconds
+2019-10-21T22:35:14.3330823+03:00:Thread#0: Test #4/1 is started on thread #0
+2019-10-21T22:35:18.7024274+03:00:Thread#0:B:When user enters in Create Payment form:
+2019-10-21T22:35:18.7030172+03:00:Thread#0:B:  --- table step argument ---
+2019-10-21T22:35:18.7030172+03:00:Thread#0:B:  | CardOwnerName | CardNumber       | ExpirationDate | CVV |
+2019-10-21T22:35:18.7030172+03:00:Thread#0:B:  | John Doe      | 1234123412341234 | 11/44          | 123 |
+2019-10-21T22:35:19.6101447+03:00:Thread#0:T:done: CreatePaymentDetailsSteps.WhenUserEntersInCreatePaymentForm(<table>) (0,9s)
+2019-10-21T22:35:19.6101447+03:00:Thread#0:B:Then button Submit is enabled in Create Payment form
+2019-10-21T22:35:19.6590649+03:00:Thread#0:T:done: CreatePaymentDetailsSteps.ThenButtonSubmitIsEnabledInCreatePaymentForm() (0,0s)
+2019-10-21T22:35:19.6600054+03:00:Thread#0:B:When user clicks button Submit in Create Payment form
+2019-10-21T22:35:19.7407871+03:00:Thread#0:T:done: CreatePaymentDetailsSteps.WhenUserClicksButtonSubmitInCreatePaymentForm() (0,1s)
+2019-10-21T22:35:19.7418102+03:00:Thread#0:B:Then Payment Details service is called with POST request
+2019-10-21T22:35:19.7437800+03:00:Thread#0:T:error: Последовательность не содержит элементов
+2019-10-21T22:35:19.7437800+03:00:Thread#0:B:Then the following Payment Detail is asked to be created:
+2019-10-21T22:35:19.7437800+03:00:Thread#0:B:  --- table step argument ---
+2019-10-21T22:35:19.7437800+03:00:Thread#0:B:  | CardOwnerName | CardNumber       | ExpirationDate | CVV |
+2019-10-21T22:35:19.7437800+03:00:Thread#0:B:  | John Doe      | 1234123412341234 | 11/44          | 123 |
+2019-10-21T22:35:19.7447776+03:00:Thread#0:T:skipped because of previous errors
+2019-10-21T22:35:19.7457761+03:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-21T22:35:19.7457761+03:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2019-10-21T22:35:19.7457761+03:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-10-21T22:35:19.7457761+03:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-10-21T22:35:19.7457761+03:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-10-21T22:35:19.7457761+03:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-10-21T22:35:19.7457761+03:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-10-21T22:35:19.7457761+03:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-10-21T22:35:19.7457761+03:00:Thread#0:Scheduler: with testItemExecutionIndex 2
+2019-10-21T22:35:19.8435120+03:00:Thread#0: Test #4/1 is finished on thread #0 as Failed within 5,5104297 seconds
+2019-10-21T22:35:19.8435120+03:00:Thread#0: Test #4/2 is started on thread #0
+2019-10-21T22:35:24.0987675+03:00:Thread#0:B:When user enters in Create Payment form:
+2019-10-21T22:35:24.0987675+03:00:Thread#0:B:  --- table step argument ---
+2019-10-21T22:35:24.0987675+03:00:Thread#0:B:  | CardOwnerName | CardNumber       | ExpirationDate | CVV |
+2019-10-21T22:35:24.0987675+03:00:Thread#0:B:  | John Doe      | 1234123412341234 | 11/44          | 123 |
+2019-10-21T22:35:25.0831354+03:00:Thread#0:T:done: CreatePaymentDetailsSteps.WhenUserEntersInCreatePaymentForm(<table>) (1,0s)
+2019-10-21T22:35:25.0831354+03:00:Thread#0:B:Then button Submit is enabled in Create Payment form
+2019-10-21T22:35:25.1449692+03:00:Thread#0:T:done: CreatePaymentDetailsSteps.ThenButtonSubmitIsEnabledInCreatePaymentForm() (0,1s)
+2019-10-21T22:35:25.1455725+03:00:Thread#0:B:When user clicks button Submit in Create Payment form
+2019-10-21T22:35:25.3005539+03:00:Thread#0:T:done: CreatePaymentDetailsSteps.WhenUserClicksButtonSubmitInCreatePaymentForm() (0,2s)
+2019-10-21T22:35:25.3005539+03:00:Thread#0:B:Then Payment Details service is called with POST request
+2019-10-21T22:35:25.3029863+03:00:Thread#0:T:error: Последовательность не содержит элементов
+2019-10-21T22:35:25.3035458+03:00:Thread#0:B:Then the following Payment Detail is asked to be created:
+2019-10-21T22:35:25.3035458+03:00:Thread#0:B:  --- table step argument ---
+2019-10-21T22:35:25.3045427+03:00:Thread#0:B:  | CardOwnerName | CardNumber       | ExpirationDate | CVV |
+2019-10-21T22:35:25.3045427+03:00:Thread#0:B:  | John Doe      | 1234123412341234 | 11/44          | 123 |
+2019-10-21T22:35:25.3050570+03:00:Thread#0:T:skipped because of previous errors
+2019-10-21T22:35:25.3056681+03:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-21T22:35:25.3056681+03:00:Thread#:Scheduler: at the end of normal test queue
+2019-10-21T22:35:25.3056681+03:00:Thread#0:Scheduler: enumerator for thread is at end
+2019-10-21T22:35:25.3056681+03:00:Thread#0:Scheduler: No more tests for thread
+2019-10-21T22:35:27.4451770+03:00:Thread#0: Test #4/2 is finished on thread #0 as Failed within 7,601665 seconds
+2019-10-21T22:35:27.5401104+03:00:Appdomain Disposed
+2019-10-21T22:35:27.5437252+03:00:Trying to cancel thread
+2019-10-21T22:35:27.5441300+03:00:Thread cancelled
+2019-10-21T22:35:27.5580917+03:00:Thread#-1:Scheduler: get next test for thread -1
+2019-10-21T22:35:27.5580917+03:00:Thread#:Scheduler: at the end of normal test queue
+2019-10-21T22:35:27.5580917+03:00:Thread#-1:Scheduler: enumerator for thread is at end
+2019-10-21T22:35:27.5700987+03:00;Thread#13;Info;test run finished
+2019-10-21T22:35:27.5700987+03:00;Thread#13;Info;publishing test results
+2019-10-21T22:35:27.5871912+03:00;Thread#13;Info;test results published
+2019-10-21T22:35:27.5871912+03:00;Thread#13;Info;generating reports
+2019-10-21T22:35:27.8714315+03:00;Thread#13;Info;Starting external report generation process
+2019-10-21T22:35:31.5459760+03:00;Thread#13;Info;Successfully generated reports.
+2019-10-21T22:35:31.5479604+03:00;Thread#13;Info;Successfully generated reports
+2019-10-21T22:35:31.5619230+03:00:Total: 1 (test executions: 3)
+2019-10-21T22:35:31.5669085+03:00:Succeeded: 0
+2019-10-21T22:35:31.5689034+03:00:Ignored: 0
+2019-10-21T22:35:31.5699008+03:00:Pending: 0
+2019-10-21T22:35:31.5699008+03:00:Skipped: 0
+2019-10-21T22:35:31.5708985+03:00:Failed: 1
+2019-10-21T22:35:31.5938461+03:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-10-21T22:35:31.5959121+03:00;VSTestExecutionThread;Info;adding Test Execution Report 'D:\Work\PaymentDetailsRegister\TestResults\Unnamed project__2019-10-21T223453.html'
+========== End of log file ==========
